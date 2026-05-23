@@ -1,0 +1,6 @@
+{
+  "name": "Sinhala AI Music",
+  "description": "Create amazing Sinhala songs with lyrics, visual waveforms, custom style selection, and history tracking utilizing Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

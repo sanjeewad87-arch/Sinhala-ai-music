@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful Music Studio Graphic centered with safe bounds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,25 L45,30 L45,65 C41.5,62 35.5,63.5 33,67 C30,71 31.5,77 36,79 C40.5,81 46,78 47,73 L47,42 L68,37 L68,57 C64.5,54 58.5,55.5 56,59 C53,63 54.5,69 59,71 C63.5,73 69,70 70,65 L70,25 Z" />
+    <path
+        android:fillColor="#FF007F"
+        android:pathData="M32,22 A8,8 0 1,1 48,22 A8,8 0 1,1 32,22" />
+    <path
+        android:fillColor="#D500F9"
+        android:pathData="M72,75 A6,6 0 1,1 84,75 A6,6 0 1,1 72,75" />
+</vector>
